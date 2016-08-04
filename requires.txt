@@ -1,0 +1,10 @@
+Flask
+Flask-Mail
+Flask-Migrate
+Flask-SQLAlchemy
+Flask-Script
+Flask-mysql
+MySQL-python
+flask-restful
+marshmallow
+marshmallow-jsonapi
