@@ -17,7 +17,9 @@ Update config.py with mysql database configuration details. (Make sure specified
 
 ### Run Below to create/migrate schema.
 $python db.py db init
+
 $python db.py db migrate
+
 $python db.py db upgrade
 
 ### Run below to start the Server
