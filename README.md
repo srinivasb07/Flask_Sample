@@ -24,3 +24,6 @@ $python db.py db upgrade
 
 ### Run below to start the Server
 $python run.py
+
+Configured to run on localhost @ 5000.
+So, access to http://localhost:5000/User (Supports: GET,POST,PUT)
